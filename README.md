@@ -36,8 +36,7 @@
 - **Product Type**: Standalone Windows Application (.exe)
 - **Price**: **$9.99 / 1,480 JPY** (Buy once, use forever)
 
-🌍 **Global Store:** [Under Review on Lemon Squeezy]
-🇯🇵 **Domestic Store:** **[サクッと！リスト作成 (BOOTH)](https://sakuttoworks.booth.pm/items/7894267)**
+🌍 **Global Store:** **[Purchase via Lemon Squeezy](https://sakuttoworks.lemonsqueezy.com/checkout)** 🇯🇵 **Domestic Store:** **[サクッと！リスト作成 (BOOTH)](https://sakuttoworks.booth.pm/items/7894267)**
 
 *Note: This repository serves as the documentation and project overview. The source code is proprietary to protect the automated browsing logic.*
 
